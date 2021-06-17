@@ -1,8 +1,9 @@
 ### Your full name : 
-My name goes here.
+BHUMIKA SHARMA
 ### Your Linkedin Profile URL:
-My profile URL goes here
+linkedin.com/in/bhumika-sharma-3ba3161a8
 ### Screenshots:
 Put screenshots of what you designed here
+
 ### Problems faced during making the assignment
 Describe any problems faced
